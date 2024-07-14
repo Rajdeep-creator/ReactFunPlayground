@@ -16,8 +16,7 @@ Explore the project files, components, and functionalities to begin your React j
 Contributing:
 Contributions are welcome! Whether you're fixing a bug, adding a new feature, or improving documentation, feel free to submit pull requests.
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Let's Connect:
 If you have any questions, ideas, or feedback, please reach out. Happy coding!
